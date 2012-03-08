@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi there
+=======
+Hello CT!
+>>>>>>> 70b31030a09ababdbeb95cb9667a24061cba09b6
