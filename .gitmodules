@@ -1,0 +1,3 @@
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/githubstudents/submodule1
